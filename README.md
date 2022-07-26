@@ -31,8 +31,10 @@ http://localhost/ynet
 ## Run the apps with Docker
  docker pull cyberpunks77/bitcoin-price
 
- docker run -d -![bitcoin](https://user-images.githubusercontent.com/49121054/181013115-7ab0fb0f-181e-4458-a0dc-333d533867cf.jpg)
-p 8000:5000 cyberpunks77/bitcoin-price
+ docker run -d -p 8000:5000 cyberpunks77/bitcoin-price
+ 
+ ![bitcoin](https://user-images.githubusercontent.com/49121054/181013115-7ab0fb0f-181e-4458-a0dc-333d533867cf.jpg)
+
 
 
  docker pull cyberpunks77/ynet
